@@ -18,7 +18,6 @@
   <img align="center" alt="Mi-Azure" height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg">
   <img align="center" alt="Mi-GCP" height="30" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Mi-Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/terraform/terraform-original.svg">
-  <img align="center" alt="Mi-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg">
 </div>
 
 ##
