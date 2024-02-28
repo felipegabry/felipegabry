@@ -5,6 +5,13 @@
 - Since 2020 I have been working with cloud infrastructure using the 3 main providers (AWS, Azure and GCP) with a greater focus on AWS.
 - DevOps culture and platform engineering enthusiast !!
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=felipegabry&show=reviews,prs&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipegabry&layout=compact&langs_count=8&card_width=200&theme=apprentice&size_weight=0.5&count_weight=0.5" />
+</a> 
+
 <div style="display: inline_block"><br>
   <h2>Tecnologias & Linguagens</h2>
   <img align="center" alt="Mi-AWS" height="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
